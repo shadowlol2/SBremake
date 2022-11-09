@@ -1,0 +1,7 @@
+name: Shadow.hypixel.skyblock
+version: '${project.version}'
+main: hypixelremake.shadow.hypixel.skyblock.Shadow.hypixel.skyblock
+api-version: 1.17
+authors: [ Shadow ]
+description: Shadow bad attempt at recreating hypixel skyblock
+website: main.shadow-sandbox.cf
